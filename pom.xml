@@ -8,7 +8,7 @@
 	<version>1.0-SNAPSHOT</version>
 
 	<properties>
-		<vertx.version>3.8.0</vertx.version>
+		<vertx.version>3.9.4</vertx.version>
 		<main.class>io.vertx.core.Launcher</main.class>
 		<main.verticle>pj.com.cn.vertx_cluser_02.MainVerticle</main.verticle>
 	</properties>
